@@ -23,7 +23,7 @@ The highway's waypoints loop around so the frenet s value, distance along the ro
 
 ## Description of the solution
 
-There are 3 major components in my solution: 1. the `Vehicle` class; 2. available status of the ego vehicle; 3. generate potential trajectories; 4. select the best trajectory; 5. Construct the actural path.
+There are 5 major components in my solution: 1. the `Vehicle` class; 2. available status of the ego vehicle; 3. generate potential trajectories; 4. select the best trajectory; 5. Construct the actural path.
 
 ### 1. the `Vehicle` class
 
